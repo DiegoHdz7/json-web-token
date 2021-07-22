@@ -1,0 +1,27 @@
+{
+  "name": "json-web-token",
+  "version": "1.0.0",
+  "description": "login using json web token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoHdz7/json-web-token.git"
+  },
+  "keywords": [],
+  "author": "diego hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoHdz7/json-web-token/issues"
+  },
+  "homepage": "https://github.com/DiegoHdz7/json-web-token#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
